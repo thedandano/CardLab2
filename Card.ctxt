@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Card
+comment0.text=\r\n\ Represents\ a\ single\ card.\r\n\r\n\ @author\ (Dan\ Sedano)\r\n\ @version\ (11/10/18)\r\n
+comment1.params=rankIn\ suitIn
+comment1.target=Card(int,\ int)
+comment1.text=\r\n\ Initializes\ instance\ variables\ and\ checks\ for\ invalid\ card\ and\ suit\ entries.\r\n\ @param\ Rank\r\n\ @param\ Suit\r\n
+comment2.params=
+comment2.target=int\ getRank()
+comment2.text=\r\n\ Returns\ Rank\r\n\ @returns\ Rank\ \r\n
+comment3.params=
+comment3.target=int\ getSuit()
+comment3.text=\r\n\ Returns\ Suit\r\n\ @return\ Suit\r\n
+comment4.params=
+comment4.target=java.lang.String\ getStringRank()
+comment4.text=\r\n\ Applies\ appropriate\ String\ to\ Rank.\r\n\ @returns\ string\ variant\ of\ Rank.\r\n
+comment5.params=
+comment5.target=java.lang.String\ getStringSuit()
+comment5.text=\r\n\ Applies\ appropriate\ unicode\ Char\ to\ Suit.\r\n\ @return\ unicode\ Char.\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ Formats\ the\ output\ of\ a\ card.\r\n\ @return\ String\ format.\ \r\n
+numComments=7

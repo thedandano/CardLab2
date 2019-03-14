@@ -1,0 +1,38 @@
+No pair
+[10?,  3?,  K?,  5?,  A?]
+
+One pair
+[ 7?,  A?,  2?,  A?,  5?] One pair
+
+Two pair
+[ Q?,  3?,  A?,  A?,  3?] Two pair
+
+Three of a kind
+[ A?,  A?,  6?,  2?,  A?] Three of a kind
+
+Straight
+[ K?, 10?,  A?,  Q?,  J?] Straight
+Extra credit - aces low
+[ 4?,  3?,  5?,  2?,  A?]
+
+Flush
+[ 8?,  3?,  J?,  5?,  A?] Flush
+
+Full house
+[ A?,  9?,  A?,  A?,  9?] Full house
+
+Four of a kind
+[ A?,  9?,  A?,  A?,  A?] Four of a kind
+
+Straight flush
+[ 5?,  2?,  4?,  6?,  3?] Straight flush
+Extra credit - aces low
+[ 4?,  3?,  A?,  5?,  2?] Flush
+
+Royal flush
+[ K?, 10?,  A?,  J?,  Q?] Royal flush
+
+Invalid hand
+Duplicate cards found!!!
+[ K?,  7?,  2?, 10?,  K?]
+
